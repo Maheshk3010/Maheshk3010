@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science professional** ded
 🔹Data Science
 🔹Data Analytics
 🔹Business Analytics
-🔹Python Development
+🔹Python Developer
 🔹Machine Learning
 🔹Artificial Intelligence
 🔹Business Intelligence
