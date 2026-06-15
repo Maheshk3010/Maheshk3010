@@ -130,11 +130,13 @@ Let's collaborate and create data-driven solutions together!
 ---
 
 ## 📚 What I'm Currently Learning
-
-- 🔬 Advanced Machine Learning Techniques
-- 🧠 Deep Learning & Neural Networks
-- 📊 Data Engineering Best Practices
-- ☁️ Cloud-based ML Deployment
+  🐍 Advanced Python Development
+  🔗 REST APIs & Backend Development
+  🧠 Machine Learning & Deep Learning
+  📊 Data Analytics & Business Intelligence
+  ☁️ Cloud & Deployment Fundamentals
+     Power BI
+     SQL Optimization
 
 ---
 
