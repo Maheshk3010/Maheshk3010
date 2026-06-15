@@ -10,6 +10,16 @@ Welcome to my GitHub profile! I'm a passionate **Data Science professional** ded
 - 📈 Specialized in ML modeling, predictive analytics, and data-driven decision making
 - 🔍 Passionate about solving real-world business problems with data
 
+## 💼 Areas of Interest
+Data Science
+Data Analytics
+Business Analytics
+Python Development
+Machine Learning
+Artificial Intelligence
+Business Intelligence
+MIS Reporting
+
 ---
 
 ## 💻 Technical Skills
@@ -72,6 +82,23 @@ End-to-end retail sales analysis combining SQL expertise with Python visualizati
 **Predicting & Preventing Customer Attrition**
 
 Advanced classification model to identify at-risk customers and drive retention strategies.
+
+##
+
+### Apple Stock Price Prediction using LSTM
+
+Deep Learning based stock forecasting application using TensorFlow, Keras, and Streamlit.
+
+🔗 GitHub: https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM
+
+### Product Recommendation System
+
+Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine Similarity.
+
+🔗 GitHub: https://github.com/Maheshk3010/Product_Recommendation_System
+
+###
+
 
 **Key Highlights:**
 - 🎯 **Classification Models**: Logistic Regression vs. Random Forest comparison
