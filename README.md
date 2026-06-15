@@ -93,7 +93,7 @@ Advanced classification model to identify at-risk customers and drive retention 
 **Technologies Used**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 
 
-###🔹 [Apple Stock Price Prediction using LSTM](https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM)
+### 🔹 [Apple Stock Price Prediction using LSTM](https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM)
 
 Deep Learning based stock forecasting application using TensorFlow, Keras, and Streamlit.
 
@@ -108,7 +108,7 @@ Deep Learning based stock forecasting application using TensorFlow, Keras, and S
 
 Technologies Used: Python, TensorFlow, Keras, Pandas, NumPy, Streamlit
 
-###🔹 [Product Recommendation System](https://github.com/Maheshk3010/Product_Recommendation_System)
+### 🔹 [Product Recommendation System](https://github.com/Maheshk3010/Product_Recommendation_System)
 
 Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine Similarity.
 
