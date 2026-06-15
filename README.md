@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm a passionate **Data Science professional** ded
 - 🔍 Passionate about solving real-world business problems with data
 
 ## 💼 Areas of Interest
-Data Science
-Data Analytics
-Business Analytics
-Python Development
-Machine Learning
-Artificial Intelligence
-Business Intelligence
-MIS Reporting
+🔹Data Science
+🔹Data Analytics
+🔹Business Analytics
+🔹Python Development
+🔹Machine Learning
+🔹Artificial Intelligence
+🔹Business Intelligence
+🔹MIS Reporting
 
 ---
 
@@ -100,11 +100,11 @@ Deep Learning based stock forecasting application using TensorFlow, Keras, and S
 🔗 GitHub: https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM
 
 **Key Highlights:**
-📈 Time Series Forecasting: Developed an LSTM-based Deep Learning model for stock price prediction.
-🧹 Data Preprocessing: Applied feature scaling, sequence generation, and historical data preparation.
-🧠 Deep Learning: Implemented LSTM Neural Networks using TensorFlow and Keras.
-📊 Interactive Dashboard: Built a Streamlit application for visualization and future price forecasting.
-🚀 Business Value: Demonstrates predictive analytics capabilities for financial market analysis.
+- 📈 Time Series Forecasting: Developed an LSTM-based Deep Learning model for stock price prediction.
+- 🧹 Data Preprocessing: Applied feature scaling, sequence generation, and historical data preparation.
+- 🧠 Deep Learning: Implemented LSTM Neural Networks using TensorFlow and Keras.
+- 📊 Interactive Dashboard: Built a Streamlit application for visualization and future price forecasting.
+- 🚀 Business Value: Demonstrates predictive analytics capabilities for financial market analysis.
 
 Technologies Used: Python, TensorFlow, Keras, Pandas, NumPy, Streamlit
 
@@ -115,11 +115,11 @@ Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine S
 🔗 GitHub: https://github.com/Maheshk3010/Product_Recommendation_System
 
 **Key Highlights:**
-🎯 Personalized Recommendations: Generated product suggestions based on customer behavior patterns.
-🤖 Recommendation Engine: Implemented Collaborative Filtering, Truncated SVD, and Cosine Similarity techniques.
-📊 Customer Segmentation: Identified similar users and products for improved recommendation accuracy.
-💻 Interactive Application: Developed a Streamlit-based recommendation interface.
-📈 Business Impact: Enhances customer engagement and supports data-driven product discovery.
+- 🎯 Personalized Recommendations: Generated product suggestions based on customer behavior patterns.
+- 🤖 Recommendation Engine: Implemented Collaborative Filtering, Truncated SVD, and Cosine Similarity techniques.
+- 📊 Customer Segmentation: Identified similar users and products for improved recommendation accuracy.
+- 💻 Interactive Application: Developed a Streamlit-based recommendation interface.
+- 📈 Business Impact: Enhances customer engagement and supports data-driven product discovery.
 
 Technologies Used: Python, Pandas, NumPy, Scikit-Learn, Streamlit
 
