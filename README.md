@@ -83,23 +83,6 @@ End-to-end retail sales analysis combining SQL expertise with Python visualizati
 
 Advanced classification model to identify at-risk customers and drive retention strategies.
 
-##
-
-### Apple Stock Price Prediction using LSTM
-
-Deep Learning based stock forecasting application using TensorFlow, Keras, and Streamlit.
-
-🔗 GitHub: https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM
-
-### Product Recommendation System
-
-Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine Similarity.
-
-🔗 GitHub: https://github.com/Maheshk3010/Product_Recommendation_System
-
-###
-
-
 **Key Highlights:**
 - 🎯 **Classification Models**: Logistic Regression vs. Random Forest comparison
 - 🔑 **Feature Importance**: Analyzed key drivers of customer churn
@@ -108,6 +91,38 @@ Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine S
 - 📈 **Actionable Output**: Identified high-risk customer segments
 
 **Technologies Used**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+
+
+###🔹 [Apple Stock Price Prediction using LSTM](https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM)
+
+Deep Learning based stock forecasting application using TensorFlow, Keras, and Streamlit.
+
+🔗 GitHub: https://github.com/Maheshk3010/Apple_Stock_Prediction_LSTM
+
+**Key Highlights:**
+📈 Time Series Forecasting: Developed an LSTM-based Deep Learning model for stock price prediction.
+🧹 Data Preprocessing: Applied feature scaling, sequence generation, and historical data preparation.
+🧠 Deep Learning: Implemented LSTM Neural Networks using TensorFlow and Keras.
+📊 Interactive Dashboard: Built a Streamlit application for visualization and future price forecasting.
+🚀 Business Value: Demonstrates predictive analytics capabilities for financial market analysis.
+
+Technologies Used: Python, TensorFlow, Keras, Pandas, NumPy, Streamlit
+
+###🔹 [Product Recommendation System](https://github.com/Maheshk3010/Product_Recommendation_System)
+
+Recommendation engine using Collaborative Filtering, Truncated SVD, and Cosine Similarity.
+
+🔗 GitHub: https://github.com/Maheshk3010/Product_Recommendation_System
+
+**Key Highlights:**
+🎯 Personalized Recommendations: Generated product suggestions based on customer behavior patterns.
+🤖 Recommendation Engine: Implemented Collaborative Filtering, Truncated SVD, and Cosine Similarity techniques.
+📊 Customer Segmentation: Identified similar users and products for improved recommendation accuracy.
+💻 Interactive Application: Developed a Streamlit-based recommendation interface.
+📈 Business Impact: Enhances customer engagement and supports data-driven product discovery.
+
+Technologies Used: Python, Pandas, NumPy, Scikit-Learn, Streamlit
+
 
 ---
 
@@ -135,8 +150,8 @@ Let's collaborate and create data-driven solutions together!
   🧠 Machine Learning & Deep Learning
   📊 Data Analytics & Business Intelligence
   ☁️ Cloud & Deployment Fundamentals
-     Power BI
-     SQL Optimization
+  📈 Power BI
+  🗄️ SQL Optimization
 
 ---
 
